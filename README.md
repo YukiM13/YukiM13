@@ -6,17 +6,14 @@
 
 
 
-###
-
-<h1 align="center">Hello there 👋</h1>
 
 ###
-
-<h3 align="left">👩‍💻  I'm Sebastian Mejia from Honduras</h3>
+# 👩‍💻 About Me
+<h3 align="left">  I'm Sebastian Mejia from Honduras</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+# 🛠 Language and tools
 
 ###
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,8 +40,10 @@
 
 ###
 
+# 📊 Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YukiM13&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YukiM13&theme=dark&hide_border=false" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YukiM13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
